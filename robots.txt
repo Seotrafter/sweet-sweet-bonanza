@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /private/
+Allow: /public/
+Sitemap: https://sweet-sweet-bonanza.com/sitemap.xml
